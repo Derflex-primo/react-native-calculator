@@ -1,7 +1,7 @@
 
 # **React Native Calculator**
 
-<img src="assets/calculator_screenshot.png" alt="Calculator App Screenshot" width="500"/>
+<img src="assets/calculator_screenshot.png" alt="Calculator App Screenshot" width="200"/>
 
 ## **Description**
 This project is a simple calculator built using React Native and TypeScript. It leverages the functional programming paradigm and styled components for UI design. The application is developed using Expo, making it easy to run and test on multiple platforms.
